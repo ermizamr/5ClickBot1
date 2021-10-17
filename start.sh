@@ -1,6 +1,6 @@
 python bot.py +251937845575 doge
 python bot.py +251937845575 zec
-python bot.py +25193784575 ltc
+python bot.py +251937845575 ltc
 python bot.py +251937845575 btc
 python bot.py +251937845575 bch
 clear
